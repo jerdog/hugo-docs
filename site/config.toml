@@ -73,7 +73,7 @@ theme = "hugo-elate-theme"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
     url = "#"
     button = "Get In Touch"
-    icon = "icon-bulb"
+    icon = "icon-question"
     img = "img_7.jpg"
 
   [[params.intro.item]]
@@ -81,7 +81,7 @@ theme = "hugo-elate-theme"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
     url = "#"
     button = "Click Me"
-    icon = "icon-wrench"
+    icon = "icon-cloud-download"
     img = "img_8.jpg"
 
   [[params.intro.item]]
@@ -89,7 +89,7 @@ theme = "hugo-elate-theme"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
     url = "#"
     button = "Why us?"
-    icon = "icon-rocket"
+    icon = "icon-directions"
     img = "img_10.jpg"
 
   [[params.intro.item]]
@@ -97,7 +97,7 @@ theme = "hugo-elate-theme"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
     url = "#"
     button = "Why us?"
-    icon = "icon-rocket"
+    icon = "icon-list"
   #   img = "img_10.jpg"
   #
   # # [params.intro.video]
