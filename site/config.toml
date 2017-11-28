@@ -15,21 +15,44 @@ theme = "hugo-elate-theme"
   # Navigation
   [params.navigation]
     brand = "PacketZoom"
-    home = "PZ Home"
-    work = "Work"
-    testimonials = "Testimonials"
-    services = "Services"
-    about = "About"
-    contact = "Contact"
+#    home = "PZ Home"
+#    work = "Work"
+#    testimonials = "Testimonials"
+#    services = "Services"
+#    about = "About"
+#    contact = "Contact"
 
     # You can add custom links before or after the default links
     # Assign a weight to define the order
 
     # prepended links
-    #[[menu.prepend]]
-    #  url = "http://gohugo.io"
-    #  name = "Hugo"
-    #  weight = 10
+    [[menu.prepend]]
+      url = "https://www.packetzoom.com/"
+      name = "PZ Home"
+      weight = 1
+
+    [[menu.prepend]]
+      url = "https://www.packetzoom.com/blog/"
+      name = "Blog"
+      weight = 2
+
+    [[menu.prepend]]
+      url = "https://www.packetzoom.com/docs/"
+      name = "Docs"
+      weight = 3
+
+    [[menu.prepend]]
+      url = "https://dashboard.packetzoom.com/"
+      name = "Login"
+      weight = 4
+
+    [[menu.prepend]]
+      url = "https://dashboard.packetzoom.com/#/register"
+      name = "Sign Up Free"
+      weight = 5
+
+
+
 
     # postpended links
     #[[menu.postpend]]
