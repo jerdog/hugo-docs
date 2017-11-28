@@ -98,7 +98,7 @@ theme = "hugo-elate-theme"
     url = "#"
     button = "Guide Me"
     icon = "icon-list"
-    img = "img_10.jpg"
+    img = "full_image_2.jpg"
 
   #
   # # [params.intro.video]
