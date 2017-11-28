@@ -4,6 +4,7 @@ title = "Elate theme"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
+
 [params]
 
   custom_css = ["css/custom1.css", "css/custom2.css"]
@@ -12,6 +13,8 @@ theme = "hugo-elate-theme"
   author = ""
   description = ""
   email = ""
+  logo = "logo.png"
+
   # Navigation
   [params.navigation]
     brand = "PacketZoom"
