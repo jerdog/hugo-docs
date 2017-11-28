@@ -29,33 +29,30 @@ theme = "hugo-elate-theme"
     # Assign a weight to define the order
 
     # prepended links
-    [[menu.prepend]]
+    [[menu.postpend]]
       url = "https://www.packetzoom.com/"
       name = "PZ Home"
       weight = 1
 
-    [[menu.prepend]]
+    [[menu.postpend]]
       url = "https://www.packetzoom.com/blog/"
       name = "Blog"
       weight = 2
 
-    [[menu.prepend]]
+    [[menu.postpend]]
       url = "https://www.packetzoom.com/docs/"
       name = "Docs"
       weight = 3
 
-    [[menu.prepend]]
+    [[menu.postpend]]
       url = "https://dashboard.packetzoom.com/"
       name = "Login"
       weight = 4
 
-    [[menu.prepend]]
+    [[menu.postpend]]
       url = "https://dashboard.packetzoom.com/#/register"
       name = "Sign Up Free"
       weight = 5
-
-
-
 
     # postpended links
     #[[menu.postpend]]
