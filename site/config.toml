@@ -71,7 +71,7 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Support"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "#"
+    url = "https://dashboard.packetzoom.com/faq"
     button = "Get In Touch"
     icon = "icon-question"
     img = "img_7.jpg"
