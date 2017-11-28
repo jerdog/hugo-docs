@@ -98,7 +98,8 @@ theme = "hugo-elate-theme"
     url = "#"
     button = "Why us?"
     icon = "icon-list"
-  #   img = "img_10.jpg"
+    img = "img_10.jpg"
+
   #
   # # [params.intro.video]
   # #   enable = true
@@ -284,8 +285,8 @@ theme = "hugo-elate-theme"
 
   # Contact section
   [params.contact]
-    enable = true
-    map = true
+    enable = false
+    map = false
     title = "Get in touch"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
 
