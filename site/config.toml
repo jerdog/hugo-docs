@@ -84,14 +84,14 @@ theme = "hugo-elate-theme"
     icon = "icon-docs"
     img = "img_10.jpg"
 
-  [[params.intro.item]]
-    title = "Tutorials"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "#"
-    button = "Guide Me"
-    icon = "icon-list"
-    img = "full_image_2.jpg"
-
+  # [[params.intro.item]]
+  #   title = "Tutorials"
+  #   description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+  #   url = "#"
+  #   button = "Guide Me"
+  #   icon = "icon-list"
+  #   img = "full_image_2.jpg"
+  #
   [[params.intro.item]]
     title = "Videos"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
