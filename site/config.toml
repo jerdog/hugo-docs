@@ -69,14 +69,6 @@ theme = "hugo-elate-theme"
   [params.intro]
 
   [[params.intro.item]]
-    title = "Support"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    url = "https://dashboard.packetzoom.com/faq"
-    button = "Get Help"
-    icon = "icon-question"
-    img = "img_7.jpg"
-
-  [[params.intro.item]]
     title = "Download SDK"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
     url = "https://dashboard.packetzoom.com"
@@ -99,6 +91,15 @@ theme = "hugo-elate-theme"
     button = "Guide Me"
     icon = "icon-list"
     img = "full_image_2.jpg"
+
+  [[params.intro.item]]
+    title = "Videos"
+    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    url = "https://dashboard.packetzoom.com/faq"
+    button = "Get Help"
+    icon = "icon-social-youtube"
+    img = "img_7.jpg"
+
 
   #
   # # [params.intro.video]
